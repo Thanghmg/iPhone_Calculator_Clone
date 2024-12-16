@@ -1,4 +1,4 @@
-# IPhone Calculator Clone
+# iPhone Calculator Clone
 
 **This is my first project in iOs Development**
 
